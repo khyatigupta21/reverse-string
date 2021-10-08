@@ -5,5 +5,5 @@
 	- Step 3.1 if element is empty then continue and skip this element
 	- Step 3.2 if element consists digit(s) then append this element in newStr 
 	- Step 3.3 if element consists of non-digit(s) then reverse the string and append in the newStr
-- Step 4 print newSr. 
+- Step 4 print newStr. 
 - Step 5 End
